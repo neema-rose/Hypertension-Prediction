@@ -119,7 +119,7 @@ Develop a supervised machine learning model that accurately classifies patients 
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/hypertension-detection.git
+git clone https://github.com/neema-rose/Hypertension-Prediction.git
 cd hypertension-detection
 ```
 
