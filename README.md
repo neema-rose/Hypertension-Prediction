@@ -5,6 +5,8 @@
 [![Machine Learning](https://img.shields.io/badge/ML-Scikit--learn-orange.svg)](https://scikit-learn.org/)
 
 **Demo Video:** https://drive.google.com/file/d/1beBnHsSij5qqygBPY-WBpuFjhrBpoCz2/view?usp=sharing
+
+**Live App:** https://hypertension-prediction-app-bkxc.onrender.com/
 > **AI-Powered Cardiovascular Risk Assessment Platform**
 ![Hypertension Detection System](screenshots/app_scrnshot1.png)
 <table>
